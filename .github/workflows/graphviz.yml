@@ -10,12 +10,6 @@ jobs:
 
       - name: Installation de graphviz
         run: sudo apt-get update && sudo apt-get install -y graphviz
-
-      - name: Lancement graphviz
-        run: |
-          chmod +x run2.sh
-          ./run2.sh
-
       - name: upload du resultat
         uses: actions/upload-artifact@v4
         with:
