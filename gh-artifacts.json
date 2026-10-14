@@ -1,0 +1,65 @@
+{
+  "total_count": 3,
+  "artifacts": [
+    {
+      "id": 11882455408,
+      "node_id": "MDg6QXJ0aWZhY3QxMTg4MjQ1NTQwOA==",
+      "name": "tous-les-graphes",
+      "size_in_bytes": 2955,
+      "url": "https://api.github.com/repos/Yanael44/tp-graphes/actions/artifacts/11882455408",
+      "archive_download_url": "https://api.github.com/repos/Yanael44/tp-graphes/actions/artifacts/11882455408/zip",
+      "expired": false,
+      "digest": "sha256:f4d250e928c43663123bced98cbd18e497d24f548122df3368f63886ac591a41",
+      "created_at": "2026-10-14T09:09:25Z",
+      "updated_at": "2026-10-14T09:09:25Z",
+      "expires_at": "2027-01-12T09:09:07Z",
+      "workflow_run": {
+        "id": 38540240730,
+        "repository_id": 1418613311,
+        "head_repository_id": 1418613311,
+        "head_branch": "main",
+        "head_sha": "e9f975fe87e185877d9dd42000dc75c8842870d3"
+      }
+    },
+    {
+      "id": 11881288421,
+      "node_id": "MDg6QXJ0aWZhY3QxMTg4MTI4ODQyMQ==",
+      "name": "graphe1",
+      "size_in_bytes": 1035,
+      "url": "https://api.github.com/repos/Yanael44/tp-graphes/actions/artifacts/11881288421",
+      "archive_download_url": "https://api.github.com/repos/Yanael44/tp-graphes/actions/artifacts/11881288421/zip",
+      "expired": false,
+      "digest": "sha256:15ab8e2849041f913f87ec3660c52e7a617316d80c95ee943bd6e11bcb44fce7",
+      "created_at": "2026-10-14T08:59:23Z",
+      "updated_at": "2026-10-14T08:59:23Z",
+      "expires_at": "2027-01-12T08:59:09Z",
+      "workflow_run": {
+        "id": 38539028674,
+        "repository_id": 1418613311,
+        "head_repository_id": 1418613311,
+        "head_branch": "main",
+        "head_sha": "b448f4f85a29bffdce15767e91a15b52bb9ccb0e"
+      }
+    },
+    {
+      "id": 11880999348,
+      "node_id": "MDg6QXJ0aWZhY3QxMTg4MDk5OTM0OA==",
+      "name": "tous-les-graphes",
+      "size_in_bytes": 6175,
+      "url": "https://api.github.com/repos/Yanael44/tp-graphes/actions/artifacts/11880999348",
+      "archive_download_url": "https://api.github.com/repos/Yanael44/tp-graphes/actions/artifacts/11880999348/zip",
+      "expired": false,
+      "digest": "sha256:6fc00ebabbb8149ccf0049757965656cd956f794eba4e668b8e1a51e9ef2d150",
+      "created_at": "2026-10-14T09:02:00Z",
+      "updated_at": "2026-10-14T09:02:00Z",
+      "expires_at": "2027-01-12T09:01:45Z",
+      "workflow_run": {
+        "id": 38539352906,
+        "repository_id": 1418613311,
+        "head_repository_id": 1418613311,
+        "head_branch": "main",
+        "head_sha": "15594e92022798f77e4c153cf81a8549f16c5b39"
+      }
+    }
+  ]
+}
